@@ -2,6 +2,7 @@
 title: Educational Codeforces Round 98 (Rated for Div. 2)
 tags:
   - ACM
+comments: true
 ---
 
 [官方题解](https://codeforces.com/blog/entry/84847)

@@ -2,6 +2,7 @@
 title: "Codeforces Round #685 (Div. 2)"
 tags:
   - ACM
+comments: true
 ---
 
 [官方题解](https://codeforces.com/blog/entry/84885)

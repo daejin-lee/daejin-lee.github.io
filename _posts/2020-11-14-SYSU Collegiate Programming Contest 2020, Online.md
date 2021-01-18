@@ -2,6 +2,7 @@
 title: SYSU Collegiate Programming Contest 2020, Online
 tags:
   - ACM
+comments: true
 ---
 
 预计难度：CF Div2-
