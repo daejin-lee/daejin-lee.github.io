@@ -141,7 +141,7 @@ defaults:
                 src='https://zz.bdstatic.com/linksubmit/push.js'
                 async="async"
               ></script>
-            - | # 网站背景图片，分竖屏、宽屏；改链接即可，不想用可以把这一项全删掉；要换壁纸图片的话可把url内的部分换成你自己的，比如你放在 /assets/image/background.jpg，那就改成 url(/assets/image/background.jpg)
+            - | # 모바일 버전, 데스크톱 버전 배경 이미지 변경은 여기에서
               <style>
                 .wrap {
                   transition-property: width,background-size,transform;
@@ -179,7 +179,7 @@ defaults:
                 h4,
                 h5,
                 h6 {
-                  font-family: PingFang SC, Menlo, Monaco, "Courier New", Microsoft JhengHei, monospace;
+                  font-family: 'Do Hyeon', sans-serif;
                 }
               </style>
             - | # 网页标题使用加粗字号
