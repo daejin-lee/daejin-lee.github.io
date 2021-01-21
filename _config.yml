@@ -4,6 +4,7 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - jemoji
 
 exclude:
   - "/vendor/"
@@ -54,11 +55,11 @@ disqus_shortname: daejin-lee
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: Dev
+  - cat: dev
     desc: "개발과 관련된 글"
 
-  - cat: Daily
-    desc: "일상"
+  - cat: daily
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
